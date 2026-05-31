@@ -1,7 +1,7 @@
 ## Hello World 👋 I am Ange - a QA Engineer in training! 
 ____________________________________________________________________________________________________
 
-# Software Testing ・ Python ・ Selenium ・ Pytest ・ XPath ・ SQL
+### Software Testing ・ Python ・ Selenium ・ Pytest ・ XPath ・ SQL
 ____________________________________________________________________________________________________
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🌱 About me 
+## 🌱 About me 
 
 Currently I am learning to write automated tests and making software more reliable, qualitative and less buggy. 
 
