@@ -1,4 +1,4 @@
-## Hello 👋 I am Ange - a QA Engineer in training! 
+## Hello 👋 I am Ange 👩🏻‍💻 - a QA Engineer in training! 
 ____________________________________________________________________________________________________
 
  Software Testing ・ Python ・ Selenium ・ Pytest ・ XPath ・ SQL
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,7 +24,7 @@ Currently I am learning to write automated tests and making software more reliab
 
 I am passionate about: 
 
-software quality ・ Testautomation ・ python ・ continuous learning 
+software quality ・ testautomation ・ python ・ continuous learning 
 
 
 
