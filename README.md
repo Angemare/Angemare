@@ -1,7 +1,7 @@
-## Hello World 👋 I am Ange - a QA Engineer in training! 
+## Hello 👋 I am Ange - a QA Engineer in training! 
 ____________________________________________________________________________________________________
 
-### Software Testing ・ Python ・ Selenium ・ Pytest ・ XPath ・ SQL
+ Software Testing ・ Python ・ Selenium ・ Pytest ・ XPath ・ SQL
 ____________________________________________________________________________________________________
 
 <!--
